@@ -3,3 +3,7 @@ It show your personal stats of Counter-Strike: Global Offensive. Powered by ESP8
 
 
 # (Uploading Sourcecode when time)
+
+Here a preview
+
+![Thumbnail](https://github.com/TheAmadeus25/CounterStrike-GlobalOffensive-StatTrack-for-ESP8266/blob/master/Photos/CSGO-Tracker.PNG?raw=true)
