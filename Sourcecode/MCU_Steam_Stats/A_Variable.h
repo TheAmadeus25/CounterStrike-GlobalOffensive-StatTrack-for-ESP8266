@@ -2,7 +2,7 @@
   ┌────────────────────────────────────────────────────┐
   │ Counter Strike: Global Offensive Stats for ESP8266 by TheAmadeus25               ┃
   ├────────────────────────────────────────────────────┤
-  │ https://theamadeus25.github.io/            /                                     ┃
+  │ https://theamadeus25.github.io/CounterStrike-GlobalOffensive-StatTrack-for-ESP8266/
   ├────────────────────────────────────────────────────┤
   │ IMPORTANT! If you like it, please share and like it! If you use this in your     ┃
   │ project, please mention me and add the URL to my GitHub page, too.               ┃
